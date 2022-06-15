@@ -1,0 +1,19 @@
+h2 {
+    color: red;
+    background-color: white;
+    width: fit-content;
+    margin-left: 1300px;
+}
+body {
+    background-image: url("https://cdn.akamai.steamstatic.com/steam/apps/920210/capsule_616x353.jpg?t=1643148138") ;
+    background-size:cover;
+}
+button {
+    text-align: center;
+    margin-left: 1300px;
+    width: 250px;
+    height: 100px;
+    color: black;
+    background-color: red;
+    font-size: 30px;
+}
